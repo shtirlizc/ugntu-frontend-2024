@@ -8,3 +8,4 @@
 | Лисовский Артём | [app](https://github.com/LisVpustini/lissos.git) |
 | Килеев Иван | [app](https://github.com/Supernova288/Front.git) |
 | Иванаевская Екатерина | [app](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) |
+| Гырдасов Виталий | [app](https://github.com/vitaliik84/ugntumph) |
