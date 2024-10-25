@@ -1,11 +1,11 @@
-| Судент | Ссылка на работу | Упражнения
-| --- | ----------- |------------|
-| Гончар Марина | [app](https://github.com/goncharm/mmmmm.git) |
-| Елейник Эдуард | [app](https://github.com/DonIkOt/Front_MPS_Eleynik) |
-| Кадиков Роберт | [app](https://github.com/RobertKadikov/Frontend-MPSH24-Kadikov) |
-| Буренов Анатолий | [app](https://github.com/AnatolyBurenov/index.html) |
-| Петров Вадим | [app](https://github.com/Gilead-slaid/front-vadim) |
-| Лисовский Артём | [app](https://github.com/LisVpustini/lissos.git) |
-| Килеев Иван | [app](https://github.com/Supernova288/Front.git) |
-| Иванаевская Екатерина | [app](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) |
-| Гырдасов Виталий | [app](https://github.com/vitaliik84/ugntumph) |
+| Судент | Ссылка на работу | [Прогресс](https://ugntu-frontend.shtirlizc.ru)
+|---|:-----------:|------------| 
+| Гончар Марина | [repo](https://github.com/goncharm/mmmmm.git) | [————————————] 0 / 12
+| Елейник Эдуард | [repo](https://github.com/DonIkOt/Front_MPS_Eleynik) | [■■■—————————] 3 / 12
+| Кадиков Роберт | [repo](https://github.com/RobertKadikov/Frontend-MPSH24-Kadikov) | [■■——————————] 2 / 12
+| Буренов Анатолий | [repo](https://github.com/AnatolyBurenov/index.html) | [————————————] 0 / 12
+| Петров Вадим | [repo](https://github.com/Gilead-slaid/front-vadim) | [■■——————————] 2 / 12
+| Лисовский Артём | [repo](https://github.com/LisVpustini/lissos.git) | [■■——————————] 2 / 12
+| Килеев Иван | [repo](https://github.com/Supernova288/Front.git) | [■———————————] 1 / 12
+| Иванаевская Екатерина | [repo](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) | [■■——————————] 2 / 12
+| Гырдасов Виталий | [repo](https://github.com/vitaliik84/ugntumph) | [■■——————————] 2 / 12
