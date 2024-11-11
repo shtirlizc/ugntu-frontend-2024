@@ -1,0 +1,30 @@
+.quotes {
+    background-color: #ffffff;
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    padding: 10vh 0;
+  }
+
+  .quotes__title {
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #333333;
+  }
+
+  .quotes__list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 40px;
+    display: grid;
+    gap: 12px;
+  }
+
+  .quotes__list-item {
+    padding: 10px;
+    margin: 5px 0;
+    border-left: 4px solid #87cefa;
+    background-color: #e8f4fc;
+  }
