@@ -7,14 +7,14 @@
 | Гончар Марина | [repo](https://github.com/goncharm/mmmmm.git) | [————————————] 0 / 12 | [——] 0 / 2
 | Елейник Эдуард | [repo](https://github.com/DonIkOt/Front_MPS_Eleynik) | [■■■■■■■■■■■■] 12 / 12 | [■—] 1 / 2
 | Кадиков Роберт | [repo](https://github.com/RobertKadikov/Frontend-MPSH24-Kadikov) | [■■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
-| Буренов Анатолий | [repo](https://github.com/AnatolyBurenov/index.html) | [————————————] 0 / 12 | [——] 0 / 2
+| Буренов Анатолий | [repo](https://github.com/AnatolyBurenov/index.html) | [■———————————] 1 / 12 | [——] 0 / 2
 | Петров Вадим | [repo](https://github.com/Gilead-slaid/front-vadim) | [■■■■■■■■————] 8 / 12 | [——] 0 / 2
 | Лисовский Артём | [repo](https://github.com/LisVpustini/lissos.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Килеев Иван | [repo](https://github.com/Supernova288/Front.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Иванаевская Екатерина | [repo](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) | [■■■■■■■■■■■■] 12 / 12 | [■—] 1 / 2
 | Гырдасов Виталий | [repo](https://github.com/vitaliik84/ugntumph) | [■■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
 | Бачурин Семён | [repo](https://github.com/Sammmich/Front_EPS) | [■■■■■■——————] 6 / 12 | [——] 0 / 2
-| Исламгулов Арсэн | [repo](https://github.com/Vasdeen/Frontend-MPSH.git) | [■■■■■■■■■———] 9 / 12 | [——] 0 / 2
+| Исламгулов Арсэн | [repo](https://github.com/Vasdeen/Frontend-MPSH.git) | [■■■■■■■■■■——] 10 / 12 | [——] 0 / 2
 
 ## 07.11.2024
 
