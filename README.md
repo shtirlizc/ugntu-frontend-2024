@@ -14,7 +14,7 @@
 | Иванаевская Екатерина | [repo](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) | [■■■■■■■■■■■■] 12 / 12 | [■—] 1 / 2
 | Гырдасов Виталий | [repo](https://github.com/vitaliik84/ugntumph) | [■■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
 | Бачурин Семён | [repo](https://github.com/Sammmich/Front_EPS) | [■■■■■■——————] 6 / 12 | [——] 0 / 2
-| Исламгулов Арсэн | [repo](https://github.com/Vasdeen/Frontend-MPSH.git) | [■■■■■■■■■■——] 10 / 12 | [——] 0 / 2
+| Исламгулов Арсэн | [repo](https://github.com/Vasdeen/Frontend-MPSH.git) | [■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
 
 ## 07.11.2024
 
