@@ -12,7 +12,7 @@
 | Лисовский Артём | [repo](https://github.com/LisVpustini/lissos.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Килеев Иван | [repo](https://github.com/Supernova288/Front.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Иванаевская Екатерина | [repo](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) - [work](https://katyaiva082.github.io/KatyaIvanaevskaya) | [■■■■■■■■■■■■] 12 / 12 | [■■] 2 / 2
-| Гырдасов Виталий | [repo](https://github.com/vitaliik84/ugntumph) - [work](https://vitaliik84.github.io/ugntumph) | [■■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
+| Гырдасов Виталий | [repo](https://github.com/vitaliik84/ugntumph) - [work](https://vitaliik84.github.io/ugntumph) | [■■■■■■■■■■■■] 12 / 12 | [■■] 2 / 2
 | Бачурин Семён | [repo](https://github.com/Sammmich/Front_EPS) | [■■■■■■——————] 6 / 12 | [——] 0 / 2
 | Исламгулов Арсэн | [repo](https://github.com/Vasdeen/Frontend-MPSH.git) - [work](https://vasdeen.github.io/Frontend-MPSH/portfolio) | [■■■■■■■■■■■] 12 / 12 | [■—] 1 / 2
 
