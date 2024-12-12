@@ -8,7 +8,7 @@
 | Елейник Эдуард | [repo](https://github.com/DonIkOt/Front_MPS_Eleynik) - [work](https://donikot.github.io/Front_MPS_Eleynik) | [■■■■■■■■■■■■] 12 / 12 | [■■] 2 / 2 | +
 | Кадиков Роберт | [repo](https://github.com/RobertKadikov/Frontend-MPSH24-Kadikov)  - [work](https://robertkadikov.github.io/Frontend-MPSH24-Kadikov) | [■■■■■■■■■■■■] 12 / 12 | [■■] 2 / 2
 | Буренов Анатолий | [repo](https://github.com/AnatolyBurenov/index.html) | [■■■■■■——————] 6 / 12 | [——] 0 / 2
-| Петров Вадим | [repo](https://github.com/Gilead-slaid/front-vadim) | [■■■■■■■■■———] 9 / 12 | [——] 0 / 2
+| Петров Вадим | [repo](https://github.com/Gilead-slaid/front-vadim) | [■■■■■■■■■■■■] 12 / 12 | [——] 0 / 2
 | Лисовский Артём | [repo](https://github.com/LisVpustini/lissos.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Килеев Иван | [repo](https://github.com/Supernova288/Front.git) | [■■■—————————] 3 / 12 | [——] 0 / 2
 | Иванаевская Екатерина | [repo](https://github.com/KatyaIva082/KatyaIvanaevskaya.git) - [work](https://katyaiva082.github.io/KatyaIvanaevskaya) | [■■■■■■■■■■■■] 12 / 12 | [■■] 2 / 2
